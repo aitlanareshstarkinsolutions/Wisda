@@ -331,7 +331,7 @@ export default function Navbar() {
             </Link>
           </div>
           <div className="text-[#166066] font-medium  md:flex md:items-center md:gap-2">
-<a href="tel:91 9876543210">
+<a href="tel:91 7660878651">
   <svg
     width="26"
     height="36"
