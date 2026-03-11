@@ -350,7 +350,9 @@ export default function Navbar() {
   </svg>
 </a>
 
-<p className='cursor-pointer hidden md:block'>+91 9876543210</p>
+// <p className='cursor-pointer hidden md:block'>+91 9876543210</p>
+<p className='cursor-pointer hidden md:block'>+91 7660878651</p>
+        
           </div>
         </div>
       </div>
